@@ -3,5 +3,6 @@ package HelloWorld;
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello World! Change 5 - first Clone");
+        System.out.println("Change 6");
     }
 }
